@@ -49,7 +49,8 @@ orçamento para a realização do MVP, o valor giraria em torno de R$
 realizados na plataforma do Figma para o FrontEnd do sistema.
 
 • O controle de versão do software vai ser feito pelo GIT + GITHUB.
-Tecnologias empregadas
+
+# Tecnologias empregadas
 
 • Serão usadas as tecnologias de HTML5, CSS3, o framework
 Bootstrap e um banco de dados feito com mySQL como SGRGD.
